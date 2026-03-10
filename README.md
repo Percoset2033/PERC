@@ -34,7 +34,6 @@
 
 ## 🚀 Быстрый старт
 СКАЧАТЬ ANDROID APK: https://disk.yandex.ru/d/qe1iQU4incrq5Q
-WEB INDEX HTML: 
 
 👨‍💻 Автор
 Percoset2033
