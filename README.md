@@ -33,28 +33,9 @@
 | 💾 | **Автосохранение** — прогресс не пропадёт |
 
 ## 🚀 Быстрый старт
+СКАЧАТЬ ANDROID APK: https://disk.yandex.ru/d/qe1iQU4incrq5Q
+WEB INDEX HTML: 
 
-```bash
-# Скопируй себе
-git clone https://github.com/Percoset2033/PERC.git
-
-# Зайди в папку
-cd PERC
-
-# Открой игру
-start index.html  # для Windows
-open index.html   # для Mac
-Или просто скачай архив и открой index.html в браузере.
-
-📂 Структура
-text
-PERC/
-├── index.html          # Главный файл игры
-├── IRSMat_icon.png     # Иконка приложения
-└── screenshots/        # Скриншоты
-    ├── menu.jpg
-    ├── game.jpg
-    └── stickers.jpg
 👨‍💻 Автор
 Percoset2033
 
