@@ -1,7 +1,8 @@
 # 🧮 IRSMat
 
 <p align="center">
-  <img src="IRSMat_icon.png" alt="IRSMat Logo" width="200"/>
+  <img src="IRSMat_icon.png" alt="IRSMat Logo" width="<img width="512" height="512" alt="IRSMat_icon" src="https://github.com/user-attachments/assets/aea5e39b-06cc-4cb8-aacb-1ec8576dc5d9" />
+200"/>
 </p>
 
 <p align="center">
