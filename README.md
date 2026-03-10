@@ -15,14 +15,6 @@
   Решай уравнения, собирай наклейки и становись лучшим!
 </p>
 
-## 📸 Скриншоты
-
-<p align="center">
-  <img src="screenshots/menu.jpg" width="180">
-  <img src="screenshots/game.jpg" width="180">
-  <img src="screenshots/stickers.jpg" width="180">
-</p>
-
 <p align="center">
   <i>Главное меню • Игровой процесс • Коллекция наклеек</i>
 </p>
